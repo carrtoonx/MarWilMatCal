@@ -21,9 +21,9 @@ ex. Windows 10
 
 ### Authors
 #### Contributors names and contact info
-ex. [Marisabel](https://pages.github.com/)
-ex. [Wilson](https://pages.github.com/)
-ex. [Matt](https://pages.github.com/)
+######ex. [Marisabel](https://pages.github.com/)
+######ex. [Wilson](https://pages.github.com/)
+######ex. [Matt](https://pages.github.com/)
 
 
 ## Version History
