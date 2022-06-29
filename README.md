@@ -23,7 +23,7 @@ Windows 10/MacOS/Linux
 #### Contributors names and contact info
 ###### ex. [Marisabel](https://pages.github.com/)
 ###### ex. [Wilson](https://pages.github.com/)
-###### ex. [Matt](https://pages.github.com/)
+###### ex. [Matt](https://github.com/carrtoonx)
 
 
 ## Version History
