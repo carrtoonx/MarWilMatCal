@@ -1,10 +1,19 @@
 #include <iostream>
 using namespace std;
+
+void chooseCal(){
+  cout << "[1] - Addition" << endl;
+  cout << "[2] - Subtraction" << endl;
+  cout << "[3] - Multiplication" << endl;
+  cout << "[4] - Division" << endl;
+}
+
+
 int main() {
 
   // Creating a SIMPLE CALCULATOR
   // Sum
-  int x , y, add, subt, multi, divide, mod;
+  int x , y, add, subt, multi, divide, mod, choice;
 
   cout << "---------------------"<< endl;
   cout << "*****CALCULATOR*****"<< endl;
@@ -13,12 +22,12 @@ int main() {
   cout << endl;
 
   /// I would like to create a switch here to choose which type of calculation the user wants to preform here
-  cout << "Thank you for using MarWilMat's calculator. \n-You will be asked to enter two numbers that will be used to complete calculations. \n-Simply press the enter/return key after entering a value." << endl;
+  cout << "Thank you for using MarWilMat's calculator. \nPlease enter the calculation from the list below" << endl;
   cout << endl;
-  cout << "Enter your first number: ";
-  cin >> x;
-  cout << "Enter your second number: ";
-  cin >> y;
+  chooseCal();
+  cout << endl;
+  cout << "Please make a selection: ";
+  cin >> choice;
   cout << endl;
 
   cout << "Your numbers are -> " << x << " and -> " << y << endl;
