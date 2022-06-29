@@ -1,17 +1,17 @@
 #include <iostream>
 using namespace std;
 int main() {
- 
+
   // Creating a SIMPLE CALCULATOR
   // Sum
   int x , y, add, subt, multi, divide, mod;
-  
+
   cout << "---------------------"<< endl;
-  cout << "*****CALCULATOR7*****"<< endl;
+  cout << "*****CALCULATOR*****"<< endl;
   cout << "---------------------"<< endl;
   cout << endl;
-  cout << endl;  
-  
+  cout << endl;
+
   /// I would like to create a switch here to choose which type of calculation the user wants to preform here
   cout << "Thank you for using MarWilMat's calculator. \n-You will be asked to enter two numbers that will be used to complete calculations. \n-Simply press the enter/return key after entering a value." << endl;
   cout << endl;
@@ -25,7 +25,7 @@ int main() {
   cout << endl;
 
   // since we cant use loops or switches, we are going to display all 5
-  
+
   // Addition
   add = x + y;
   cout << "Addition: " << x << " + " << y << " = " << add <<endl;
@@ -46,6 +46,6 @@ int main() {
   mod = x % y;
   cout << "Modulo: " << x << " % " << y << " = " << mod <<endl;
   cout << endl;
-  
+
   cout << "Thank you, Run again!";
   }
