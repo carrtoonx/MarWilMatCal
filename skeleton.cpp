@@ -11,7 +11,9 @@ int main() {
   cout << "---------------------"<< endl;
   cout << endl;
   cout << endl;  
-  cout << "Thank you for using MarWilMat's calculator. \n-You will be asked to enter   two numbers that will be used to complete calculations. \n-Simply press the enter/return key after entering a value." << endl;
+  
+  /// I would like to create a switch here to choose which type of calculation the user wants to preform here
+  cout << "Thank you for using MarWilMat's calculator. \n-You will be asked to enter two numbers that will be used to complete calculations. \n-Simply press the enter/return key after entering a value." << endl;
   cout << endl;
   cout << "Enter your first number: ";
   cin >> x;
