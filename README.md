@@ -4,7 +4,7 @@ we are going to make a working calculator
 ## Getting Started
 ### Dependencies
 #### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+Windows 10/MacOS/Linux
 
 ### Installing
 #### How/where to download your program
@@ -27,12 +27,10 @@ ex. Windows 10
 
 
 ## Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
+#### 0.1
+#### Starting 
 
 ## Initial Release
 
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [NONE] License - see the LICENSE.md file for details
