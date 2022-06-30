@@ -9,6 +9,8 @@ Windows 10/MacOS/Linux
 ### Installing
 #### How/where to download your program
 #### Any modifications needed to be made to files/folders
+Eclipse sucks
+
 
 ### Executing program
 #### How to run the program
